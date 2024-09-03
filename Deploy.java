@@ -1,2 +1,1 @@
- this is java file
-i am from mithun technologies 
+ this is java file 
